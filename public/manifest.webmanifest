@@ -1,0 +1,14 @@
+{
+  "name": "CAUCE MX · Aguas residuales",
+  "short_name": "CAUCE MX",
+  "description": "Cálculo local de descargas de aguas residuales para proyectos en México.",
+  "lang": "es-MX",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f9f8f4",
+  "theme_color": "#f9f8f4",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
